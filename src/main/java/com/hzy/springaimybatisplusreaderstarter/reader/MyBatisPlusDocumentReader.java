@@ -1,4 +1,4 @@
-package com.hzy.springaimybatisplusreaderstarter.reder;
+package com.hzy.springaimybatisplusreaderstarter.reader;
 
 import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
