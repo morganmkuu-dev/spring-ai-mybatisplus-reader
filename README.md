@@ -31,7 +31,7 @@ Spring AI MyBatis-Plus Reader 是一个专为 Spring AI 和 MyBatis-Plus 生态�
 <dependency>
     <groupId>com.gitee.GDUTHZY</groupId>
     <artifactId>spring-ai-mybatisplus-reader</artifactId>
-    <version>master-SNAPSHOT</version> </dependency>
+    <version>latest-version</version> </dependency>
 ```
 💻 使用指南 (Usage)
 
